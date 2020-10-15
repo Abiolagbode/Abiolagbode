@@ -31,7 +31,7 @@
 
 <br />
 
-Hi, I'm Abiola Gbode, mobile and web Developer 🚀 from Lagos Nigeria, currently, I'm a Software Team Lead 🙍🏽‍♂️ [@Timzoid](https://timzoid.com, Freelancer 👨🏽‍💻 [@Upwork](https://www.upwork.com/), Internee 👨🏽‍💼[@IncubateIND](https://incubateind.com/) and a Mobile Developer [@eTranzact](https://etranzact.com/). Beside's programming, I enjoy making new friends and traveling.
+Hi, I'm Abiola Gbode, Experienced Software developer 🚀 from Nigeria, currently, I'm a Software Team Lead 🙍🏽‍♂️ [@Timzoid](https://timzoid.com, Freelancer 👨🏽‍💻 [@Upwork](https://www.upwork.com/), Freelance 👨🏽‍💼[@IncubateIND](https://incubateind.com/) and a Mobile Developer [@eTranzact](https://etranzact.com/). Beside's programming, I enjoy making new friends and traveling.
 
   <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
   
